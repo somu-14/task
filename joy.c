@@ -4,3 +4,7 @@ main()
 {
   printf("hello joy this is your file");
 }
+hey this is a sample c program do you want to get another c program if you want
+select the option below 
+yes
+no
